@@ -19,3 +19,7 @@ Some the research news in the media mentioned the research in my previous group 
 3. Keynote at [BAA Workshop](https://www.youtube.com/watch?v=IdCwe9TRTo0) on Bees Algorithm and its Applications (BAA2023) (UK, November 2023)
 4. Keynote Talk at [SIBGRAPI2015](https://www.youtube.com/watch?v=q68j8D03PE8) (Brazil, 2015)
    
+---
+Social Media
+1. [Academia](https://cambridge.academia.edu/XinSheYang) with more than 10000 followers
+2. [Research Gate](https://www.researchgate.net/profile/Xin-She-Yang) with more than 1,000,000 reads
