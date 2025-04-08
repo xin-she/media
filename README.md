@@ -2,8 +2,9 @@
 
 ## Some Highlights in the Media
 
-2. Springer Nature's [AI eBook Collection](https://www.springernature.com/gp/librarians/the-link/ebooks-blogpost/exploring-the-future-of-ai/27760638)
-3. [Nature-inspired algorithms](https://analyticsindiamag.com/it-services/can-big-data-answer-airlines-route-profitability-3-nature-inspired-algorithms-tackle-pain-point/) for optimization, India IT Services, (Sept 2017)
+1. Springer Nature's [AI eBook Collection](https://www.springernature.com/gp/librarians/the-link/ebooks-blogpost/exploring-the-future-of-ai/27760638)
+2. [Nature-inspired algorithms](https://analyticsindiamag.com/it-services/can-big-data-answer-airlines-route-profitability-3-nature-inspired-algorithms-tackle-pain-point/) for optimization, India IT Services, (Sept 2017)
+3. Firefly algorithm optimization, Microsoft Magazine [Test Run](https://learn.microsoft.com/en-us/archive/msdn-magazine/2015/june/test-run-firefly-algorithm-optimization), (June 2015)
 4. Cuckoo search algorithm in [Science Daily](https://www.sciencedaily.com/releases/2010/05/100527213816.htm) (May 2010)
 
 ## Research News about Gravity 
